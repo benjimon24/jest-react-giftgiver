@@ -1,5 +1,7 @@
 # GiftGiver
-An application built on React. Built with a behaviorally-driven-development (BDD) approach, using Jest and Enzyme. Part of the "React - Mastering Test Driven Development" course by David Katz (link below).
+An application built on React. Built with a behaviorally-driven-development (BDD) approach, using Jest and Enzyme. This simple application allows users to create a gift list with "person" and "present" fields.
+
+Part of the "React - Mastering Test Driven Development" course by David Katz (link below).
 
 ## Usage
 1. ```npm install```
